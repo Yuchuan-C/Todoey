@@ -40,8 +40,8 @@
 		1BB41B29216A6771002E8093 = {
 			isa = PBXGroup;
 			children = (
-				1BB41B34216A6771002E8093 /* Todoey */,
 				1BB41B33216A6771002E8093 /* Products */,
+				1BB41B34216A6771002E8093 /* Todoey */,
 			);
 			sourceTree = "<group>";
 		};
